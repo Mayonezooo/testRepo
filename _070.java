@@ -25,7 +25,7 @@ public class _070 {
         }
 
         //System.out.println(resultList);
-
+// 수정
         result = resultList.get(n-1);
         return result;
     }

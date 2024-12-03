@@ -25,7 +25,11 @@ public class _070 {
         }
 
         //System.out.println(resultList);
+<<<<<<< HEAD
 
+=======
+// 수정
+>>>>>>> origin/son
         result = resultList.get(n-1);
         return result;
     }
